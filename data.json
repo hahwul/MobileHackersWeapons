@@ -1,9 +1,137 @@
 {
- "frida": {
+ "Mobile-Security-Framework-MobSF": {
+  "Data": "| All/Scanner | [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. | ![](https://img.shields.io/github/stars/MobSF/Mobile-Security-Framework-MobSF) | ![](https://img.shields.io/github/languages/top/MobSF/Mobile-Security-Framework-MobSF) |",
+  "Description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Scanner",
   "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "NetHunter": {
+  "Data": "| Android/Pentest  | [NetHunter](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project) |  Mobile Penetration Testing Platform|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+  "Description": "Mobile Penetration Testing Platform",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Pentest",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "bytecode-viewer": {
+  "Data": "| Android/Reverse Engineering | [bytecode-viewer](https://github.com/Konloch/bytecode-viewer/) | A Java 8+ Jar \u0026 Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger \u0026 More) | ![](https://img.shields.io/github/stars/Konloch/bytecode-viewer/) | ![](https://img.shields.io/github/languages/top/Konloch/bytecode-viewer/) |",
+  "Description": "A Java 8+ Jar \u0026 Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger \u0026 More)",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Reverse Engineering",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "frida": {
   "Data": "| All/Reverse engineering | [frida](https://github.com/frida/frida) | Clone this repo to build Frida | ![](https://img.shields.io/github/stars/frida/frida) | ![](https://img.shields.io/github/languages/top/frida/frida) |",
-  "Method": "Reverse engineering",
   "Description": "Clone this repo to build Frida",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Reverse engineering",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "frida-tools": {
+  "Data": "| All/Reverse engineering | [frida-tools](https://github.com/frida/frida-tools) | Frida CLI tools | ![](https://img.shields.io/github/stars/frida/frida-tools) | ![](https://img.shields.io/github/languages/top/frida/frida-tools) |",
+  "Description": "Frida CLI tools",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Reverse engineering",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "idb": {
+  "Data": "| iOS/Analysis | [idb](https://github.com/dmayer/idb) | idb is a tool to simplify some common tasks for iOS pentesting and research | ![](https://img.shields.io/github/stars/dmayer/idb) | ![](https://img.shields.io/github/languages/top/dmayer/idb) |",
+  "Description": "idb is a tool to simplify some common tasks for iOS pentesting and research",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Analysis",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "jd-gui": {
+  "Data": "| Android/Reverse Engineering | [jd-gui](https://github.com/java-decompiler/jd-gui) | A standalone Java Decompiler GUI | ![](https://img.shields.io/github/stars/java-decompiler/jd-gui) | ![](https://img.shields.io/github/languages/top/java-decompiler/jd-gui) |",
+  "Description": "A standalone Java Decompiler GUI",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Reverse Engineering",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "qark": {
+  "Data": "| Android/Scanner | [qark](https://github.com/linkedin/qark) | Tool to look for several security related Android application vulnerabilities | ![](https://img.shields.io/github/stars/linkedin/qark) | ![](https://img.shields.io/github/languages/top/linkedin/qark) |",
+  "Description": "Tool to look for several security related Android application vulnerabilities",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Scanner",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "ssl-kill-switch2": {
+  "Type": "iOS",
+  "Data": "| iOS/Unpinning | [ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) | Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps | ![](https://img.shields.io/github/stars/nabla-c0d3/ssl-kill-switch2) | ![](https://img.shields.io/github/languages/top/nabla-c0d3/ssl-kill-switch2) |",
+  "Method": "Unpinning",
+  "Description": "Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps",
   "Install": {
    "Linux": "",
    "MacOS": "",
