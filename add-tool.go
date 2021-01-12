@@ -22,7 +22,7 @@ template
 
 type Tools struct {
 	Type, Data, Method, Description string
-	Install, Update map[string]string
+	Install, Update                 map[string]string
 }
 
 func isTitleElement(n *html.Node) bool {
@@ -65,23 +65,23 @@ func writeJSON(category, name, method, data, udesc string) {
 	byteValue, _ := ioutil.ReadAll(jsonFile)
 	var result map[string]interface{}
 	install := map[string]string{
-		"MacOS":"",
-		"Linux":"",
-		"Windows":"",
+		"MacOS":   "",
+		"Linux":   "",
+		"Windows": "",
 	}
 	update := map[string]string{
-		"MacOS":"",
-		"Linux":"",
-		"Windows":"",
+		"MacOS":   "",
+		"Linux":   "",
+		"Windows": "",
 	}
 	json.Unmarshal([]byte(byteValue), &result)
 	tool := Tools{
-		Type:   category,
-		Data:   data,
-		Method: method,
+		Type:        category,
+		Data:        data,
+		Method:      method,
 		Description: udesc,
-		Install: install,
-		Update: update,
+		Install:     install,
+		Update:      update,
 	}
 	if result[name] != nil {
 		resultData := result[name].(map[string]interface{})
@@ -162,7 +162,7 @@ func main() {
 		_, err = fmt.Scan(&choicetype)
 		fmt.Println(m[choicetype])
 		reader1 := bufio.NewReader(os.Stdin)
-		fmt.Println("[+] What is method(e.g XSS, WVS, SSL, ETC..)?")
+		fmt.Println("[+] What is method (e.g. RE, Analysis, Scanner, .etc) ?")
 		method, _ := reader1.ReadString('\n')
 		method = strings.TrimRight(method, "\r\n")
 		writeJSON(m[choicetype], name, method, "| "+m[choicetype]+" | "+method+" | ["+name+"]("+*repourl+") | "+desc+" | ![](https://img.shields.io/github/stars"+u.Path+") | ![](https://img.shields.io/github/languages/top"+u.Path+") |", desc)
@@ -203,7 +203,7 @@ func main() {
 		fmt.Println("[+] What is method(e.g XSS, WVS, SSL, ETC..)?")
 		method, _ := reader1.ReadString('\n')
 		method = strings.TrimRight(method, "\r\n")
-		writeJSON(m[choicetype], name, method, "| "+m[choicetype]+" | "+method+"  | ["+name+"]("+*repourl+") |  "+udesc+"|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)",udesc)
+		writeJSON(m[choicetype], name, method, "| "+m[choicetype]+" | "+method+"  | ["+name+"]("+*repourl+") |  "+udesc+"|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)", udesc)
 	}
 
 	if *first {
