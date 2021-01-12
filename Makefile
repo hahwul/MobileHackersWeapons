@@ -1,7 +1,7 @@
 .PHONY: default help contribute add-tool distribute-readme clean
 
 SHELL             = /bin/bash
-APP_NAME          = WebHackersWeapons
+APP_NAME          = MobileHackersWeapons
 ADD_TOOL          = add-tool
 DISTRIBUTE_README = distribute-readme
 VERSION           = $(shell git describe --always --tags)
@@ -27,12 +27,12 @@ contribute: add-tool distribute-readme
 add-tool:
 	@echo "Build ${ADD_TOOL} ${VERSION}"
 	@echo "GOPATH=${GOPATH}"
-	go build -ldflags "-w -X github.com/hahwul/WebHackersWeapons/version.GitCommit=${GIT_COMMIT}${GIT_DIRTY} -X github.com/hahwul/WebHackersWeapons/version.Version=${VERSION} -X github.com/hahwul/WebHackersWeapons/version.BuildDate=${BUILD_DATE}" -o ./${ADD_TOOL} ./${ADD_TOOL}.go
+	go build -ldflags "-w -X github.com/hahwul/MobileHackersWeapons/version.GitCommit=${GIT_COMMIT}${GIT_DIRTY} -X github.com/hahwul/MobileHackersWeapons/version.Version=${VERSION} -X github.com/hahwul/MobileHackersWeapons/version.BuildDate=${BUILD_DATE}" -o ./${ADD_TOOL} ./${ADD_TOOL}.go
 
 distribute-readme:
 	@echo "Build ${ADD_TOOL} ${VERSION}"
 	@echo "GOPATH=${GOPATH}"
-	go build -ldflags "-w -X github.com/hahwul/WebHackersWeapons/version.GitCommit=${GIT_COMMIT}${GIT_DIRTY} -X github.com/hahwul/WebHackersWeapons/version.Version=${VERSION} -X github.com/hahwul/WebHackersWeapons/version.BuildDate=${BUILD_DATE}" -o ./${DISTRIBUTE_README} ./${DISTRIBUTE_README}.go
+	go build -ldflags "-w -X github.com/hahwul/MobileHackersWeapons/version.GitCommit=${GIT_COMMIT}${GIT_DIRTY} -X github.com/hahwul/MobileHackersWeapons/version.Version=${VERSION} -X github.com/hahwul/MobileHackersWeapons/version.BuildDate=${BUILD_DATE}" -o ./${DISTRIBUTE_README} ./${DISTRIBUTE_README}.go
 
 clean:
 	@echo "Removing ${APP_NAME} ${VERSION}"
