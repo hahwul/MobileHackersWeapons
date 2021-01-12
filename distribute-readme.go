@@ -80,7 +80,7 @@ func main() {
 			m[t+"/"+mt] = tool
 		}
 	}
-	readme := "| Type | Name | Description | Popularity | Language |\r\n| ---------- | :---------- | :----------: | :----------: | :----------: | \r\n"
+	readme := "| OS | Type | Name | Description | Popularity | Language |\r\n| ---------- | :---------- | :---------- | :----------: | :----------: | :----------: | \r\n"
 
 	keys := []string{}
 	for key := range m {
