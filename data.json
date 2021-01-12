@@ -1,14 +1,14 @@
 {
  "Kali NetHunter": {
+  "Type": "Android",
   "Data": "| Android/Pentest  | [Kali NetHunter](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project) |  Mobile Penetration Testing Platform|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+  "Method": "Pentest",
   "Description": "Mobile Penetration Testing Platform",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
-  "Method": "Pentest",
-  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -25,22 +25,6 @@
   },
   "Method": "Scanner",
   "Type": "All",
-  "Update": {
-   "Linux": "",
-   "MacOS": "",
-   "Windows": ""
-  }
- },
- "NetHunter": {
-  "Data": "| Android/Pentest  | [NetHunter](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project) |  Mobile Penetration Testing Platform|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
-  "Description": "Mobile Penetration Testing Platform",
-  "Install": {
-   "Linux": "",
-   "MacOS": "",
-   "Windows": ""
-  },
-  "Method": "Pentest",
-  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -144,15 +128,15 @@
   }
  },
  "ssl-kill-switch2": {
-  "Type": "iOS",
   "Data": "| ![](/assets/iOS.svg)/Unpinning | [ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) | Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps | ![](https://img.shields.io/github/stars/nabla-c0d3/ssl-kill-switch2) | ![](https://img.shields.io/github/languages/top/nabla-c0d3/ssl-kill-switch2) |",
-  "Method": "Unpinning",
   "Description": "Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Unpinning",
+  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",
