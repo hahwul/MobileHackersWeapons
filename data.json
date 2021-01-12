@@ -1,3 +1,18 @@
 {
-
+ "frida": {
+  "Type": "All",
+  "Data": "| All/Reverse engineering | [frida](https://github.com/frida/frida) | Clone this repo to build Frida | ![](https://img.shields.io/github/stars/frida/frida) | ![](https://img.shields.io/github/languages/top/frida/frida) |",
+  "Method": "Reverse engineering",
+  "Description": "Clone this repo to build Frida",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ }
 }
