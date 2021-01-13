@@ -1,8 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://user-images.githubusercontent.com/13212227/104400983-a5cc0a00-5596-11eb-8aeb-81c747f26663.png" width="300px"></a>
-  <br>
-  Mobile Hacker's Weapons
+  <a href=""><img src="https://user-images.githubusercontent.com/13212227/104400983-a5cc0a00-5596-11eb-8aeb-81c747f26663.png" width="500px"></a>
   <br>
   <img src="https://img.shields.io/github/languages/top/hahwul/MobileHackersWeapons?style=flat"> 
   <img src="https://img.shields.io/github/last-commit/hahwul/MobileHackersWeapons?style=flat"> 
