@@ -25,4 +25,4 @@ jobs:
               dep ensure
           fi
       - name: Build
-        run: run: make contribute
+        run: make contribute
