@@ -3,8 +3,6 @@ on:
   schedule:
     - cron: '0 4 * * 0' 
   push:
-    branches:
-      - master
   workflow_dispatch:
       inputs:
          logLevel:
