@@ -15,6 +15,22 @@
    "Windows": ""
   }
  },
+ "MEDUZA": {
+  "Data": "| iOS | Unpinning | [MEDUZA](https://github.com/kov4l3nko/MEDUZA) | A more or less universal SSL unpinning tool for iOS | ![](https://img.shields.io/github/stars/kov4l3nko/MEDUZA) | ![](https://img.shields.io/github/languages/top/kov4l3nko/MEDUZA) |",
+  "Description": "A more or less universal SSL unpinning tool for iOS",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Unpinning",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "Mobile-Security-Framework-MobSF": {
   "Data": "| All | Scanner | [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. | ![](https://img.shields.io/github/stars/MobSF/Mobile-Security-Framework-MobSF) | ![](https://img.shields.io/github/languages/top/MobSF/Mobile-Security-Framework-MobSF) |",
   "Description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
@@ -32,15 +48,15 @@
   }
  },
  "apkleaks": {
-  "Type": "Android",
   "Data": "| Android | Analysis | [apkleaks](https://github.com/dwisiswant0/apkleaks) | Scanning APK file for URIs, endpoints \u0026 secrets. | ![](https://img.shields.io/github/stars/dwisiswant0/apkleaks) | ![](https://img.shields.io/github/languages/top/dwisiswant0/apkleaks) |",
-  "Method": "Analysis",
   "Description": "Scanning APK file for URIs, endpoints \u0026 secrets.",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Analysis",
+  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -56,6 +72,38 @@
    "Windows": ""
   },
   "Method": "RE",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "dex-oracle": {
+  "Data": "| Android | RE | [dex-oracle](https://github.com/CalebFenton/dex-oracle) | A pattern based Dalvik deobfuscator which uses limited execution to improve semantic analysis | ![](https://img.shields.io/github/stars/CalebFenton/dex-oracle) | ![](https://img.shields.io/github/languages/top/CalebFenton/dex-oracle) |",
+  "Description": "A pattern based Dalvik deobfuscator which uses limited execution to improve semantic analysis",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "drozer": {
+  "Data": "| Android | Analysis | [drozer](https://github.com/FSecureLABS/drozer) | The Leading Security Assessment Framework for Android. | ![](https://img.shields.io/github/stars/FSecureLABS/drozer) | ![](https://img.shields.io/github/languages/top/FSecureLABS/drozer) |",
+  "Description": "The Leading Security Assessment Framework for Android.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Analysis",
   "Type": "Android",
   "Update": {
    "Linux": "",
@@ -79,9 +127,41 @@
    "Windows": ""
   }
  },
+ "frida-scripts": {
+  "Data": "| All | SCRIPTS | [frida-scripts](https://github.com/0xdea/frida-scripts) | A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps. | ![](https://img.shields.io/github/stars/0xdea/frida-scripts) | ![](https://img.shields.io/github/languages/top/0xdea/frida-scripts) |",
+  "Description": "A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "SCRIPTS",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "frida-tools": {
   "Data": "| All | RE | [frida-tools](https://github.com/frida/frida-tools) | Frida CLI tools | ![](https://img.shields.io/github/stars/frida/frida-tools) | ![](https://img.shields.io/github/languages/top/frida/frida-tools) |",
   "Description": "Frida CLI tools",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "fridump": {
+  "Data": "| All | RE | [fridump](https://github.com/Nightbringer21/fridump) | A universal memory dumper using Frida | ![](https://img.shields.io/github/stars/Nightbringer21/fridump) | ![](https://img.shields.io/github/languages/top/Nightbringer21/fridump) |",
+  "Description": "A universal memory dumper using Frida",
   "Install": {
    "Linux": "",
    "MacOS": "",
@@ -127,6 +207,38 @@
    "Windows": ""
   }
  },
+ "nfcgate": {
+  "Data": "| Android | NFC | [nfcgate](https://github.com/nfcgate/nfcgate) | An NFC research toolkit application for Android | ![](https://img.shields.io/github/stars/nfcgate/nfcgate) | ![](https://img.shields.io/github/languages/top/nfcgate/nfcgate) |",
+  "Description": "An NFC research toolkit application for Android",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "NFC",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "objection": {
+  "Data": "| iOS | Analysis | [objection](https://github.com/sensepost/objection) | 📱 objection - runtime mobile exploration | ![](https://img.shields.io/github/stars/sensepost/objection) | ![](https://img.shields.io/github/languages/top/sensepost/objection) |",
+  "Description": "📱 objection - runtime mobile exploration",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Analysis",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "qark": {
   "Data": "| Android | Scanner | [qark](https://github.com/linkedin/qark) | Tool to look for several security related Android application vulnerabilities | ![](https://img.shields.io/github/stars/linkedin/qark) | ![](https://img.shields.io/github/languages/top/linkedin/qark) |",
   "Description": "Tool to look for several security related Android application vulnerabilities",
@@ -143,6 +255,22 @@
    "Windows": ""
   }
  },
+ "scrounger": {
+  "Data": "| All | Analysis | [scrounger](https://github.com/nettitude/scrounger) | Mobile application testing toolkit | ![](https://img.shields.io/github/stars/nettitude/scrounger) | ![](https://img.shields.io/github/languages/top/nettitude/scrounger) |",
+  "Description": "Mobile application testing toolkit",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Analysis",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "ssl-kill-switch2": {
   "Data": "| iOS | Unpinning | [ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) | Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps | ![](https://img.shields.io/github/stars/nabla-c0d3/ssl-kill-switch2) | ![](https://img.shields.io/github/languages/top/nabla-c0d3/ssl-kill-switch2) |",
   "Description": "Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps",
@@ -153,6 +281,22 @@
   },
   "Method": "Unpinning",
   "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "toothpicker": {
+  "Type": "iOS",
+  "Data": "| iOS | Bluetooth | [toothpicker](https://github.com/seemoo-lab/toothpicker) | ToothPicker is an in-process, coverage-guided fuzzer for iOS. for iOS Bluetooth | ![](https://img.shields.io/github/stars/seemoo-lab/toothpicker) | ![](https://img.shields.io/github/languages/top/seemoo-lab/toothpicker) |",
+  "Method": "Bluetooth",
+  "Description": "ToothPicker is an in-process, coverage-guided fuzzer for iOS. for iOS Bluetooth",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
   "Update": {
    "Linux": "",
    "MacOS": "",
