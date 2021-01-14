@@ -1,4 +1,20 @@
 {
+ "BurpSuite": {
+  "Data": "| All | Proxy  | [BurpSuite](https://portswigger.net/burp) |  The BurpSuite|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+  "Description": "The BurpSuite",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Proxy",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "Kali NetHunter": {
   "Data": "| Android | Pentest  | [Kali NetHunter](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project) |  Mobile Penetration Testing Platform|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
   "Description": "Mobile Penetration Testing Platform",
@@ -175,6 +191,38 @@
    "Windows": ""
   }
  },
+ "hetty": {
+  "Data": "| All | Proxy | [hetty](https://github.com/dstotijn/hetty) | Hetty is an HTTP toolkit for security research. | ![](https://img.shields.io/github/stars/dstotijn/hetty) | ![](https://img.shields.io/github/languages/top/dstotijn/hetty) |",
+  "Description": "Hetty is an HTTP toolkit for security research.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Proxy",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "httptoolkit": {
+  "Data": "| All | Proxy | [httptoolkit](https://github.com/httptoolkit/httptoolkit) | HTTP Toolkit is a beautiful \u0026 open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux \u0026 Mac | ![](https://img.shields.io/github/stars/httptoolkit/httptoolkit) | ![](https://img.shields.io/github/languages/top/httptoolkit/httptoolkit) |",
+  "Description": "HTTP Toolkit is a beautiful \u0026 open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux \u0026 Mac",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Proxy",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "idb": {
   "Data": "| iOS | Analysis | [idb](https://github.com/dmayer/idb) | idb is a tool to simplify some common tasks for iOS pentesting and research | ![](https://img.shields.io/github/stars/dmayer/idb) | ![](https://img.shields.io/github/languages/top/dmayer/idb) |",
   "Description": "idb is a tool to simplify some common tasks for iOS pentesting and research",
@@ -239,6 +287,22 @@
    "Windows": ""
   }
  },
+ "proxify": {
+  "Data": "| All | Proxy | [proxify](https://github.com/projectdiscovery/proxify) | Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go. | ![](https://img.shields.io/github/stars/projectdiscovery/proxify) | ![](https://img.shields.io/github/languages/top/projectdiscovery/proxify) |",
+  "Description": "Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Proxy",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "qark": {
   "Data": "| Android | Scanner | [qark](https://github.com/linkedin/qark) | Tool to look for several security related Android application vulnerabilities | ![](https://img.shields.io/github/stars/linkedin/qark) | ![](https://img.shields.io/github/languages/top/linkedin/qark) |",
   "Description": "Tool to look for several security related Android application vulnerabilities",
@@ -288,10 +352,26 @@
   }
  },
  "toothpicker": {
-  "Type": "iOS",
   "Data": "| iOS | Bluetooth | [toothpicker](https://github.com/seemoo-lab/toothpicker) | ToothPicker is an in-process, coverage-guided fuzzer for iOS. for iOS Bluetooth | ![](https://img.shields.io/github/stars/seemoo-lab/toothpicker) | ![](https://img.shields.io/github/languages/top/seemoo-lab/toothpicker) |",
-  "Method": "Bluetooth",
   "Description": "ToothPicker is an in-process, coverage-guided fuzzer for iOS. for iOS Bluetooth",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Bluetooth",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "zaproxy": {
+  "Type": "All",
+  "Data": "| All | Proxy | [zaproxy](https://github.com/zaproxy/zaproxy) | The OWASP ZAP core project | ![](https://img.shields.io/github/stars/zaproxy/zaproxy) | ![](https://img.shields.io/github/languages/top/zaproxy/zaproxy) |",
+  "Method": "Proxy",
+  "Description": "The OWASP ZAP core project",
   "Install": {
    "Linux": "",
    "MacOS": "",
