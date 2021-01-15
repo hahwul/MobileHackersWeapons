@@ -200,7 +200,7 @@ func main() {
 		_, err = fmt.Scan(&choicetype)
 		fmt.Println(m[choicetype])
 		reader1 := bufio.NewReader(os.Stdin)
-		fmt.Println("[+] What is method(e.g XSS, WVS, SSL, ETC..)?")
+		fmt.Println("[+] What is method (e.g. RE, Analysis, Scanner, .etc) ?")
 		method, _ := reader1.ReadString('\n')
 		method = strings.TrimRight(method, "\r\n")
 		writeJSON(m[choicetype], name, method, "| "+m[choicetype]+" | "+method+"  | ["+name+"]("+*repourl+") |  "+udesc+"|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)", udesc)
