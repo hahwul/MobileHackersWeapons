@@ -1,4 +1,20 @@
 {
+ "Apktool": {
+  "Data": "| Android | RE | [Apktool](https://github.com/iBotPeaches/Apktool) | A tool for reverse engineering Android apk files | ![](https://img.shields.io/github/stars/iBotPeaches/Apktool) | ![](https://img.shields.io/github/languages/top/iBotPeaches/Apktool) |",
+  "Description": "A tool for reverse engineering Android apk files",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "BurpSuite": {
   "Data": "| All | Proxy  | [BurpSuite](https://portswigger.net/burp) |  The BurpSuite|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
   "Description": "The BurpSuite",
@@ -9,6 +25,22 @@
   },
   "Method": "Proxy",
   "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "Clutch": {
+  "Data": "| iOS | RE | [Clutch](https://github.com/KJCracks/Clutch) | Fast iOS executable dumper | ![](https://img.shields.io/github/stars/KJCracks/Clutch) | ![](https://img.shields.io/github/languages/top/KJCracks/Clutch) |",
+  "Description": "Fast iOS executable dumper",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -63,6 +95,22 @@
    "Windows": ""
   }
  },
+ "RMS-Runtime-Mobile-Security": {
+  "Data": "| All | Analysis | [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) | Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime | ![](https://img.shields.io/github/stars/m0bilesecurity/RMS-Runtime-Mobile-Security) | ![](https://img.shields.io/github/languages/top/m0bilesecurity/RMS-Runtime-Mobile-Security) |",
+  "Description": "Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Analysis",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "apkleaks": {
   "Data": "| Android | Analysis | [apkleaks](https://github.com/dwisiswant0/apkleaks) | Scanning APK file for URIs, endpoints \u0026 secrets. | ![](https://img.shields.io/github/stars/dwisiswant0/apkleaks) | ![](https://img.shields.io/github/languages/top/dwisiswant0/apkleaks) |",
   "Description": "Scanning APK file for URIs, endpoints \u0026 secrets.",
@@ -73,6 +121,38 @@
   },
   "Method": "Analysis",
   "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "apkx": {
+  "Data": "| Android | RE | [apkx](https://github.com/b-mueller/apkx) | One-Step APK Decompilation With Multiple Backends | ![](https://img.shields.io/github/stars/b-mueller/apkx) | ![](https://img.shields.io/github/languages/top/b-mueller/apkx) |",
+  "Description": "One-Step APK Decompilation With Multiple Backends",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "bfinject": {
+  "Data": "| iOS | Inject | [bfinject](https://github.com/BishopFox/bfinject) | Dylib injection for iOS 11.0 - 11.1.2 with LiberiOS and Electra jailbreaks | ![](https://img.shields.io/github/stars/BishopFox/bfinject) | ![](https://img.shields.io/github/languages/top/BishopFox/bfinject) |",
+  "Description": "Dylib injection for iOS 11.0 - 11.1.2 with LiberiOS and Electra jailbreaks",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Inject",
+  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -95,9 +175,41 @@
    "Windows": ""
   }
  },
+ "class-dump": {
+  "Data": "| iOS | RE | [class-dump](https://github.com/nygard/class-dump) | Generate Objective-C headers from Mach-O files. | ![](https://img.shields.io/github/stars/nygard/class-dump) | ![](https://img.shields.io/github/languages/top/nygard/class-dump) |",
+  "Description": "Generate Objective-C headers from Mach-O files.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "dex-oracle": {
   "Data": "| Android | RE | [dex-oracle](https://github.com/CalebFenton/dex-oracle) | A pattern based Dalvik deobfuscator which uses limited execution to improve semantic analysis | ![](https://img.shields.io/github/stars/CalebFenton/dex-oracle) | ![](https://img.shields.io/github/languages/top/CalebFenton/dex-oracle) |",
   "Description": "A pattern based Dalvik deobfuscator which uses limited execution to improve semantic analysis",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "dex2jar": {
+  "Data": "| Android | RE | [dex2jar](https://github.com/pxb1988/dex2jar) | Tools to work with android .dex and java .class files | ![](https://img.shields.io/github/stars/pxb1988/dex2jar) | ![](https://img.shields.io/github/languages/top/pxb1988/dex2jar) |",
+  "Description": "Tools to work with android .dex and java .class files",
   "Install": {
    "Linux": "",
    "MacOS": "",
@@ -127,6 +239,22 @@
    "Windows": ""
   }
  },
+ "enjarify": {
+  "Type": "Android",
+  "Data": "| Android | RE | [enjarify](https://github.com/Storyyeller/enjarify) | Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications. | ![](https://img.shields.io/github/stars/Storyyeller/enjarify) | ![](https://img.shields.io/github/languages/top/Storyyeller/enjarify) |",
+  "Method": "RE",
+  "Description": "Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "frida": {
   "Data": "| All | RE | [frida](https://github.com/frida/frida) | Clone this repo to build Frida | ![](https://img.shields.io/github/stars/frida/frida) | ![](https://img.shields.io/github/languages/top/frida/frida) |",
   "Description": "Clone this repo to build Frida",
@@ -137,6 +265,22 @@
   },
   "Method": "RE",
   "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "frida-ios-dump": {
+  "Data": "| iOS | RE | [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) | pull decrypted ipa from jailbreak device | ![](https://img.shields.io/github/stars/AloneMonkey/frida-ios-dump) | ![](https://img.shields.io/github/languages/top/AloneMonkey/frida-ios-dump) |",
+  "Description": "pull decrypted ipa from jailbreak device",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -191,6 +335,22 @@
    "Windows": ""
   }
  },
+ "ghidra": {
+  "Data": "| All | RE | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ![](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra) | ![](https://img.shields.io/github/languages/top/NationalSecurityAgency/ghidra) |",
+  "Description": "Ghidra is a software reverse engineering (SRE) framework",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "hetty": {
   "Data": "| All | Proxy | [hetty](https://github.com/dstotijn/hetty) | Hetty is an HTTP toolkit for security research. | ![](https://img.shields.io/github/stars/dstotijn/hetty) | ![](https://img.shields.io/github/languages/top/dstotijn/hetty) |",
   "Description": "Hetty is an HTTP toolkit for security research.",
@@ -223,6 +383,38 @@
    "Windows": ""
   }
  },
+ "iFunBox": {
+  "Data": "| iOS | Analysis  | [iFunBox](http://www.i-funbox.com/) |  General file management software for iPhone and other Apple products|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+  "Description": "General file management software for iPhone and other Apple products",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Analysis",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "iRET": {
+  "Data": "| iOS | RE | [iRET](https://github.com/S3Jensen/iRET) | iOS Reverse Engineering Toolkit. | ![](https://img.shields.io/github/stars/S3Jensen/iRET) | ![](https://img.shields.io/github/languages/top/S3Jensen/iRET) |",
+  "Description": "iOS Reverse Engineering Toolkit.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "idb": {
   "Data": "| iOS | Analysis | [idb](https://github.com/dmayer/idb) | idb is a tool to simplify some common tasks for iOS pentesting and research | ![](https://img.shields.io/github/stars/dmayer/idb) | ![](https://img.shields.io/github/languages/top/dmayer/idb) |",
   "Description": "idb is a tool to simplify some common tasks for iOS pentesting and research",
@@ -239,6 +431,22 @@
    "Windows": ""
   }
  },
+ "jadx": {
+  "Data": "| Android | RE | [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | ![](https://img.shields.io/github/stars/skylot/jadx) | ![](https://img.shields.io/github/languages/top/skylot/jadx) |",
+  "Description": "Dex to Java decompiler",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "jd-gui": {
   "Data": "| Android | RE | [jd-gui](https://github.com/java-decompiler/jd-gui) | A standalone Java Decompiler GUI | ![](https://img.shields.io/github/stars/java-decompiler/jd-gui) | ![](https://img.shields.io/github/languages/top/java-decompiler/jd-gui) |",
   "Description": "A standalone Java Decompiler GUI",
@@ -249,6 +457,38 @@
   },
   "Method": "RE",
   "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "momdec": {
+  "Data": "| iOS | RE | [momdec](https://github.com/atomicbird/momdec) | Core Data Managed Object Model Decompiler | ![](https://img.shields.io/github/stars/atomicbird/momdec) | ![](https://img.shields.io/github/languages/top/atomicbird/momdec) |",
+  "Description": "Core Data Managed Object Model Decompiler",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "needle": {
+  "Data": "| iOS | Analysis | [needle](https://github.com/FSecureLABS/needle) | The iOS Security Testing Framework | ![](https://img.shields.io/github/stars/FSecureLABS/needle) | ![](https://img.shields.io/github/languages/top/FSecureLABS/needle) |",
+  "Description": "The iOS Security Testing Framework",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Analysis",
+  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -281,6 +521,22 @@
   },
   "Method": "Analysis",
   "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "procyon": {
+  "Data": "| Android | RE | [procyon](https://github.com/mstrobel/procyon) | Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler. | ![](https://img.shields.io/github/stars/mstrobel/procyon) | ![](https://img.shields.io/github/languages/top/mstrobel/procyon) |",
+  "Description": "Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -368,15 +624,15 @@
   }
  },
  "zaproxy": {
-  "Type": "All",
   "Data": "| All | Proxy | [zaproxy](https://github.com/zaproxy/zaproxy) | The OWASP ZAP core project | ![](https://img.shields.io/github/stars/zaproxy/zaproxy) | ![](https://img.shields.io/github/languages/top/zaproxy/zaproxy) |",
-  "Method": "Proxy",
   "Description": "The OWASP ZAP core project",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Proxy",
+  "Type": "All",
   "Update": {
    "Linux": "",
    "MacOS": "",
