@@ -111,6 +111,38 @@
    "Windows": ""
   }
  },
+ "Smali-CFGs": {
+  "Type": "Android",
+  "Data": "| Android | RE | [Smali-CFGs](https://github.com/EugenioDelfa/Smali-CFGs) | Smali Control Flow Graph's | ![](https://img.shields.io/github/stars/EugenioDelfa/Smali-CFGs) | ![](https://img.shields.io/github/languages/top/EugenioDelfa/Smali-CFGs) |",
+  "Method": "RE",
+  "Description": "Smali Control Flow Graph's",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "StaCoAn": {
+  "Data": "| All | Scanner | [StaCoAn](https://github.com/vincentcox/StaCoAn) | StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications. | ![](https://img.shields.io/github/stars/vincentcox/StaCoAn) | ![](https://img.shields.io/github/languages/top/vincentcox/StaCoAn) |",
+  "Description": "StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Scanner",
+  "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "apkleaks": {
   "Data": "| Android | Analysis | [apkleaks](https://github.com/dwisiswant0/apkleaks) | Scanning APK file for URIs, endpoints \u0026 secrets. | ![](https://img.shields.io/github/stars/dwisiswant0/apkleaks) | ![](https://img.shields.io/github/languages/top/dwisiswant0/apkleaks) |",
   "Description": "Scanning APK file for URIs, endpoints \u0026 secrets.",
@@ -240,15 +272,15 @@
   }
  },
  "enjarify": {
-  "Type": "Android",
   "Data": "| Android | RE | [enjarify](https://github.com/Storyyeller/enjarify) | Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications. | ![](https://img.shields.io/github/stars/Storyyeller/enjarify) | ![](https://img.shields.io/github/languages/top/Storyyeller/enjarify) |",
-  "Method": "RE",
   "Description": "Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "RE",
+  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
