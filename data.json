@@ -1,4 +1,20 @@
 {
+ "A-Bypass": {
+  "Type": "iOS",
+  "Data": "| iOS | Bypass Jailbreak  | [A-Bypass](https://www.ios-repo-updates.com/repository/baw-repo/package/com.rpgfarm.a-bypass/) |  Super Jailbreak detection bypass!|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+  "Method": "Bypass Jailbreak",
+  "Description": "Super Jailbreak detection bypass!",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "Apktool": {
   "Data": "| Android | RE | [Apktool](https://github.com/iBotPeaches/Apktool) | A tool for reverse engineering Android apk files | ![](https://img.shields.io/github/stars/iBotPeaches/Apktool) | ![](https://img.shields.io/github/languages/top/iBotPeaches/Apktool) |",
   "Description": "A tool for reverse engineering Android apk files",
@@ -47,6 +63,38 @@
    "Windows": ""
   }
  },
+ "FlyJB-X": {
+  "Data": "| iOS | Bypass Jailbreak | [FlyJB-X](https://github.com/XsF1re/FlyJB-X) | You can HIDE Doing jailbreak your iDevice. | ![](https://img.shields.io/github/stars/XsF1re/FlyJB-X) | ![](https://img.shields.io/github/languages/top/XsF1re/FlyJB-X) |",
+  "Description": "You can HIDE Doing jailbreak your iDevice.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Bypass Jailbreak",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "HideJB": {
+  "Data": "| iOS | Bypass Jailbreak  | [HideJB](http://cydia.saurik.com/package/com.thuthuatjb.hidejb/) |  a tweak has the ability to skip jailbreak detection on iOS apps.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+  "Description": "a tweak has the ability to skip jailbreak detection on iOS apps.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Bypass Jailbreak",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "Kali NetHunter": {
   "Data": "| Android | Pentest  | [Kali NetHunter](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project) |  Mobile Penetration Testing Platform|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
   "Description": "Mobile Penetration Testing Platform",
@@ -57,6 +105,22 @@
   },
   "Method": "Pentest",
   "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "Liberty": {
+  "Data": "| iOS | Bypass Jailbreak  | [Liberty](https://yalujailbreak.net/liberty/) |  Bypass Jailbreak and SSL Pinning|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+  "Description": "Bypass Jailbreak and SSL Pinning",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Bypass Jailbreak",
+  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -112,15 +176,15 @@
   }
  },
  "Smali-CFGs": {
-  "Type": "Android",
   "Data": "| Android | RE | [Smali-CFGs](https://github.com/EugenioDelfa/Smali-CFGs) | Smali Control Flow Graph's | ![](https://img.shields.io/github/stars/EugenioDelfa/Smali-CFGs) | ![](https://img.shields.io/github/languages/top/EugenioDelfa/Smali-CFGs) |",
-  "Method": "RE",
   "Description": "Smali Control Flow Graph's",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "RE",
+  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
