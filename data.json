@@ -1,14 +1,14 @@
 {
  "A-Bypass": {
-  "Type": "iOS",
   "Data": "| iOS | Bypass Jailbreak  | [A-Bypass](https://www.ios-repo-updates.com/repository/baw-repo/package/com.rpgfarm.a-bypass/) |  Super Jailbreak detection bypass!|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
-  "Method": "Bypass Jailbreak",
   "Description": "Super Jailbreak detection bypass!",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Bypass Jailbreak",
+  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -505,6 +505,38 @@
   },
   "Method": "RE",
   "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "iSpy": {
+  "Data": "| iOS | RE | [iSpy](https://github.com/BishopFox/iSpy) | A reverse engineering framework for iOS | ![](https://img.shields.io/github/stars/BishopFox/iSpy) | ![](https://img.shields.io/github/languages/top/BishopFox/iSpy) |",
+  "Description": "A reverse engineering framework for iOS",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "RE",
+  "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "iblessing": {
+  "Type": "iOS",
+  "Data": "| iOS | Analysis | [iblessing](https://github.com/Soulghost/iblessing) | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | ![](https://img.shields.io/github/stars/Soulghost/iblessing) | ![](https://img.shields.io/github/languages/top/Soulghost/iblessing) |",
+  "Method": "Analysis",
+  "Description": "iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
   "Update": {
    "Linux": "",
    "MacOS": "",
