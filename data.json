@@ -95,6 +95,22 @@
    "Windows": ""
   }
  },
+ "JEB": {
+  "Type": "Android",
+  "Data": "| Android | RE  | [JEB](https://www.pnfsoftware.com/jeb/) |  reverse-engineering platform to perform disassembly, decompilation, debugging, and analysis of code and document files, manually or as part of an analysis pipeline.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+  "Method": "RE",
+  "Description": "reverse-engineering platform to perform disassembly, decompilation, debugging, and analysis of code and document files, manually or as part of an analysis pipeline.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "Kali NetHunter": {
   "Data": "| Android | Pentest  | [Kali NetHunter](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project) |  Mobile Penetration Testing Platform|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
   "Description": "Mobile Penetration Testing Platform",
@@ -528,15 +544,15 @@
   }
  },
  "iblessing": {
-  "Type": "iOS",
   "Data": "| iOS | Analysis | [iblessing](https://github.com/Soulghost/iblessing) | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | ![](https://img.shields.io/github/stars/Soulghost/iblessing) | ![](https://img.shields.io/github/languages/top/Soulghost/iblessing) |",
-  "Method": "Analysis",
   "Description": "iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining.",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Analysis",
+  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",

@@ -8,7 +8,6 @@
   <img src="https://github.com/hahwul/MobileHackersWeapons/workflows/Build/badge.svg">
   <img src="https://github.com/hahwul/MobileHackersWeapons/workflows/CodeQL/badge.svg">
   <a href="https://twitter.com/intent/follow?screen_name=hahwul"><img src="https://img.shields.io/twitter/follow/hahwul?style=flat&logo=twitter"></a>
-  <a href="https://github.com/hahwul"><img src="https://img.shields.io/github/stars/hahwul?style=flat&logo=github"></a>
 </h1>
 A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 
@@ -43,6 +42,7 @@ A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hun
 | Android | NFC | [nfcgate](https://github.com/nfcgate/nfcgate) | An NFC research toolkit application for Android | ![](https://img.shields.io/github/stars/nfcgate/nfcgate) | ![](https://img.shields.io/github/languages/top/nfcgate/nfcgate) |
 | Android | Pentest  | [Kali NetHunter](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project) |  Mobile Penetration Testing Platform|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)
 | Android | RE | [Apktool](https://github.com/iBotPeaches/Apktool) | A tool for reverse engineering Android apk files | ![](https://img.shields.io/github/stars/iBotPeaches/Apktool) | ![](https://img.shields.io/github/languages/top/iBotPeaches/Apktool) |
+| Android | RE  | [JEB](https://www.pnfsoftware.com/jeb/) |  reverse-engineering platform to perform disassembly, decompilation, debugging, and analysis of code and document files, manually or as part of an analysis pipeline.|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)
 | Android | RE | [Smali-CFGs](https://github.com/EugenioDelfa/Smali-CFGs) | Smali Control Flow Graph's | ![](https://img.shields.io/github/stars/EugenioDelfa/Smali-CFGs) | ![](https://img.shields.io/github/languages/top/EugenioDelfa/Smali-CFGs) |
 | Android | RE | [apkx](https://github.com/b-mueller/apkx) | One-Step APK Decompilation With Multiple Backends | ![](https://img.shields.io/github/stars/b-mueller/apkx) | ![](https://img.shields.io/github/languages/top/b-mueller/apkx) |
 | Android | RE | [bytecode-viewer](https://github.com/Konloch/bytecode-viewer/) | A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More) | ![](https://img.shields.io/github/stars/Konloch/bytecode-viewer/) | ![](https://img.shields.io/github/languages/top/Konloch/bytecode-viewer/) |
