@@ -96,15 +96,15 @@
   }
  },
  "JEB": {
-  "Type": "Android",
   "Data": "| Android | RE  | [JEB](https://www.pnfsoftware.com/jeb/) |  reverse-engineering platform to perform disassembly, decompilation, debugging, and analysis of code and document files, manually or as part of an analysis pipeline.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
-  "Method": "RE",
   "Description": "reverse-engineering platform to perform disassembly, decompilation, debugging, and analysis of code and document files, manually or as part of an analysis pipeline.",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "RE",
+  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -217,6 +217,22 @@
   },
   "Method": "Scanner",
   "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "androguard": {
+  "Type": "Android",
+  "Data": "| Android | RE | [androguard](https://github.com/androguard/androguard) | Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !) | ![](https://img.shields.io/github/stars/androguard/androguard) | ![](https://img.shields.io/github/languages/top/androguard/androguard) |",
+  "Method": "RE",
+  "Description": "Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
   "Update": {
    "Linux": "",
    "MacOS": "",
