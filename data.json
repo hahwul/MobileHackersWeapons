@@ -224,15 +224,15 @@
   }
  },
  "androguard": {
-  "Type": "Android",
   "Data": "| Android | RE | [androguard](https://github.com/androguard/androguard) | Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !) | ![](https://img.shields.io/github/stars/androguard/androguard) | ![](https://img.shields.io/github/languages/top/androguard/androguard) |",
-  "Method": "RE",
   "Description": "Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "RE",
+  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -281,6 +281,22 @@
   },
   "Method": "Inject",
   "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "btrace": {
+  "Type": "Android",
+  "Data": "| Android | RE | [btrace](https://github.com/bytedance/btrace) | 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO. | ![](https://img.shields.io/github/stars/bytedance/btrace) | ![](https://img.shields.io/github/languages/top/bytedance/btrace) |",
+  "Method": "RE",
+  "Description": "🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -728,6 +744,22 @@
    "Windows": ""
   },
   "Method": "Scanner",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "scrcpy": {
+  "Data": "| Android | Device | [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | ![](https://img.shields.io/github/stars/Genymobile/scrcpy) | ![](https://img.shields.io/github/languages/top/Genymobile/scrcpy) |",
+  "Description": "Display and control your Android device",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Device",
   "Type": "Android",
   "Update": {
    "Linux": "",
