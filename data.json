@@ -175,6 +175,22 @@
    "Windows": ""
   }
  },
+ "PlaystoreDownloader": {
+  "Data": "| Android | Target | [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) | A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required) | ![](https://img.shields.io/github/stars/ClaudiuGeorgiu/PlaystoreDownloader) | ![](https://img.shields.io/github/languages/top/ClaudiuGeorgiu/PlaystoreDownloader) |",
+  "Description": "A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Target",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "RMS-Runtime-Mobile-Security": {
   "Data": "| All | Analysis | [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) | Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime | ![](https://img.shields.io/github/stars/m0bilesecurity/RMS-Runtime-Mobile-Security) | ![](https://img.shields.io/github/languages/top/m0bilesecurity/RMS-Runtime-Mobile-Security) |",
   "Description": "Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime",
@@ -496,15 +512,47 @@
   }
  },
  "googleplay": {
-  "Type": "Android",
   "Data": "| Android | Target | [googleplay](https://github.com/89z/googleplay) | Download APK from Google Play or send API requests | ![](https://img.shields.io/github/stars/89z/googleplay) | ![](https://img.shields.io/github/languages/top/89z/googleplay) |",
-  "Method": "Target",
   "Description": "Download APK from Google Play or send API requests",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Target",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "gplaycli": {
+  "Type": "Android",
+  "Data": "| Android | Target | [gplaycli](https://github.com/matlink/gplaycli) | Google Play Downloader via Command line | ![](https://img.shields.io/github/stars/matlink/gplaycli) | ![](https://img.shields.io/github/languages/top/matlink/gplaycli) |",
+  "Method": "Target",
+  "Description": "Google Play Downloader via Command line",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "gplaydl": {
+  "Data": "| Android | Target | [gplaydl](https://github.com/rehmatworks/gplaydl) | Command Line Google Play APK downloader. Download APK files to your PC directly from Google Play Store. | ![](https://img.shields.io/github/stars/rehmatworks/gplaydl) | ![](https://img.shields.io/github/languages/top/rehmatworks/gplaydl) |",
+  "Description": "Command Line Google Play APK downloader. Download APK files to your PC directly from Google Play Store.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Target",
+  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
