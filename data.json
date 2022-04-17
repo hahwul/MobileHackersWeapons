@@ -528,15 +528,15 @@
   }
  },
  "gplaycli": {
-  "Type": "Android",
   "Data": "| Android | Target | [gplaycli](https://github.com/matlink/gplaycli) | Google Play Downloader via Command line | ![](https://img.shields.io/github/stars/matlink/gplaycli) | ![](https://img.shields.io/github/languages/top/matlink/gplaycli) |",
-  "Method": "Target",
   "Description": "Google Play Downloader via Command line",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Target",
+  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -665,6 +665,22 @@
   },
   "Method": "Analysis",
   "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "ipainstaller": {
+  "Type": "iOS",
+  "Data": "| iOS | Target | [ipainstaller](https://github.com/autopear/ipainstaller) | Install IPA from command line | ![](https://img.shields.io/github/stars/autopear/ipainstaller) | ![](https://img.shields.io/github/languages/top/autopear/ipainstaller) |",
+  "Method": "Target",
+  "Description": "Install IPA from command line",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
   "Update": {
    "Linux": "",
    "MacOS": "",
