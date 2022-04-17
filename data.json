@@ -288,15 +288,15 @@
   }
  },
  "btrace": {
-  "Type": "Android",
   "Data": "| Android | RE | [btrace](https://github.com/bytedance/btrace) | 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO. | ![](https://img.shields.io/github/stars/bytedance/btrace) | ![](https://img.shields.io/github/languages/top/bytedance/btrace) |",
-  "Method": "RE",
   "Description": "🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "RE",
+  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -489,6 +489,22 @@
   },
   "Method": "RE",
   "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "googleplay": {
+  "Type": "Android",
+  "Data": "| Android | Target | [googleplay](https://github.com/89z/googleplay) | Download APK from Google Play or send API requests | ![](https://img.shields.io/github/stars/89z/googleplay) | ![](https://img.shields.io/github/languages/top/89z/googleplay) |",
+  "Method": "Target",
+  "Description": "Download APK from Google Play or send API requests",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
   "Update": {
    "Linux": "",
    "MacOS": "",
