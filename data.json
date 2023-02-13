@@ -799,6 +799,22 @@
    "Windows": ""
   }
  },
+ "metasploit-framework": {
+  "Type": "All",
+  "Data": "| All | Pentest | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | ![](https://img.shields.io/github/stars/rapid7/metasploit-framework) | ![](https://img.shields.io/github/languages/top/rapid7/metasploit-framework) |",
+  "Method": "Pentest",
+  "Description": "Metasploit Framework",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "momdec": {
   "Data": "| iOS | RE | [momdec](https://github.com/atomicbird/momdec) | Core Data Managed Object Model Decompiler | ![](https://img.shields.io/github/stars/atomicbird/momdec) | ![](https://img.shields.io/github/languages/top/atomicbird/momdec) |",
   "Description": "Core Data Managed Object Model Decompiler",
