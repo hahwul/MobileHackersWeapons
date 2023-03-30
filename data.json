@@ -95,6 +95,22 @@
    "Windows": ""
   }
  },
+ "Hijacker": {
+  "Data": "| Android | Monitor | [Hijacker](https://github.com/chrisk44/Hijacker) | Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android | ![](https://img.shields.io/github/stars/chrisk44/Hijacker) | ![](https://img.shields.io/github/languages/top/chrisk44/Hijacker) |",
+  "Description": "Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Hijack",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "JEB": {
   "Data": "| Android | RE  | [JEB](https://www.pnfsoftware.com/jeb/) |  reverse-engineering platform to perform disassembly, decompilation, debugging, and analysis of code and document files, manually or as part of an analysis pipeline.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
   "Description": "reverse-engineering platform to perform disassembly, decompilation, debugging, and analysis of code and document files, manually or as part of an analysis pipeline.",
@@ -159,6 +175,22 @@
    "Windows": ""
   }
  },
+ "Magisk": {
+  "Data": "| Android | Utils | [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | ![](https://img.shields.io/github/stars/topjohnwu/Magisk) | ![](https://img.shields.io/github/languages/top/topjohnwu/Magisk) |",
+  "Description": "The Magic Mask for Android",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Utils",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "Mobile-Security-Framework-MobSF": {
   "Data": "| All | Scanner | [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. | ![](https://img.shields.io/github/stars/MobSF/Mobile-Security-Framework-MobSF) | ![](https://img.shields.io/github/languages/top/MobSF/Mobile-Security-Framework-MobSF) |",
   "Description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
@@ -175,6 +207,22 @@
    "Windows": ""
   }
  },
+ "PCAPdroid": {
+  "Data": "| Android | Monitor | [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) | No-root network monitor, firewall and PCAP dumper for Android | ![](https://img.shields.io/github/stars/emanuele-f/PCAPdroid) | ![](https://img.shields.io/github/languages/top/emanuele-f/PCAPdroid) |",
+  "Description": "No-root network monitor, firewall and PCAP dumper for Android",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Monitor",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "PlaystoreDownloader": {
   "Data": "| Android | Target | [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) | A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required) | ![](https://img.shields.io/github/stars/ClaudiuGeorgiu/PlaystoreDownloader) | ![](https://img.shields.io/github/languages/top/ClaudiuGeorgiu/PlaystoreDownloader) |",
   "Description": "A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)",
@@ -184,6 +232,22 @@
    "Windows": ""
   },
   "Method": "Target",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "PortAuthority": {
+  "Data": "| Android | Discovery | [PortAuthority](https://github.com/aaronjwood/PortAuthority) | A handy systems and security-focused tool, Port Authority is a very fast Android port scanner. Port Authority also allows you to quickly discover hosts on your network and will display useful network information about your device and other hosts. | ![](https://img.shields.io/github/stars/aaronjwood/PortAuthority) | ![](https://img.shields.io/github/languages/top/aaronjwood/PortAuthority) |",
+  "Description": "A handy systems and security-focused tool, Port Authority is a very fast Android port scanner. Port Authority also allows you to quickly discover hosts on your network and will display useful network information about your device and other hosts.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Discovery",
   "Type": "Android",
   "Update": {
    "Linux": "",
@@ -280,6 +344,22 @@
    "Windows": ""
   },
   "Method": "RE",
+  "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "behe-keyboard": {
+  "Data": "| Android | Utils | [behe-keyboard](https://github.com/VladThodo/behe-keyboard) | A lightweight hacking \u0026 programming keyboard with material design | ![](https://img.shields.io/github/stars/VladThodo/behe-keyboard) | ![](https://img.shields.io/github/languages/top/VladThodo/behe-keyboard) |",
+  "Description": "A lightweight hacking \u0026 programming keyboard with material design",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Utils",
   "Type": "Android",
   "Update": {
    "Linux": "",
@@ -672,15 +752,15 @@
   }
  },
  "ipainstaller": {
-  "Type": "iOS",
   "Data": "| iOS | Target | [ipainstaller](https://github.com/autopear/ipainstaller) | Install IPA from command line | ![](https://img.shields.io/github/stars/autopear/ipainstaller) | ![](https://img.shields.io/github/languages/top/autopear/ipainstaller) |",
-  "Method": "Target",
   "Description": "Install IPA from command line",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Target",
+  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -713,6 +793,22 @@
   },
   "Method": "RE",
   "Type": "Android",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "metasploit-framework": {
+  "Type": "All",
+  "Data": "| All | Pentest | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | ![](https://img.shields.io/github/stars/rapid7/metasploit-framework) | ![](https://img.shields.io/github/languages/top/rapid7/metasploit-framework) |",
+  "Method": "Pentest",
+  "Description": "Metasploit Framework",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -873,6 +969,22 @@
   },
   "Method": "Unpinning",
   "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "termux-app": {
+  "Data": "| Android | Utils | [termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | ![](https://img.shields.io/github/stars/termux/termux-app) | ![](https://img.shields.io/github/languages/top/termux/termux-app) |",
+  "Description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Method": "Utils",
+  "Type": "Android",
   "Update": {
    "Linux": "",
    "MacOS": "",
