@@ -463,6 +463,22 @@
    "Windows": ""
   }
  },
+ "diff-gui": {
+  "Type": "All",
+  "Data": "| All | RE | [diff-gui](https://github.com/antojoseph/diff-gui) | GUI for Frida -Scripts | ![](https://img.shields.io/github/stars/antojoseph/diff-gui) | ![](https://img.shields.io/github/languages/top/antojoseph/diff-gui) |",
+  "Method": "RE",
+  "Description": "GUI for Frida -Scripts",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "drozer": {
   "Data": "| Android | Analysis | [drozer](https://github.com/FSecureLABS/drozer) | The Leading Security Assessment Framework for Android. | ![](https://img.shields.io/github/stars/FSecureLABS/drozer) | ![](https://img.shields.io/github/languages/top/FSecureLABS/drozer) |",
   "Description": "The Leading Security Assessment Framework for Android.",
@@ -800,15 +816,15 @@
   }
  },
  "metasploit-framework": {
-  "Type": "All",
   "Data": "| All | Pentest | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | ![](https://img.shields.io/github/stars/rapid7/metasploit-framework) | ![](https://img.shields.io/github/languages/top/rapid7/metasploit-framework) |",
-  "Method": "Pentest",
   "Description": "Metasploit Framework",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Pentest",
+  "Type": "All",
   "Update": {
    "Linux": "",
    "MacOS": "",
