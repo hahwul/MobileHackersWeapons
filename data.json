@@ -464,15 +464,15 @@
   }
  },
  "diff-gui": {
-  "Type": "All",
   "Data": "| All | RE | [diff-gui](https://github.com/antojoseph/diff-gui) | GUI for Frida -Scripts | ![](https://img.shields.io/github/stars/antojoseph/diff-gui) | ![](https://img.shields.io/github/languages/top/antojoseph/diff-gui) |",
-  "Method": "RE",
   "Description": "GUI for Frida -Scripts",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "RE",
+  "Type": "All",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -752,15 +752,15 @@
   }
  },
  "idb": {
-  "Data": "| iOS | Analysis | [idb](https://github.com/dmayer/idb) | idb is a tool to simplify some common tasks for iOS pentesting and research | ![](https://img.shields.io/github/stars/dmayer/idb) | ![](https://img.shields.io/github/languages/top/dmayer/idb) |",
-  "Description": "idb is a tool to simplify some common tasks for iOS pentesting and research",
+  "Type": "iOS",
+  "Data": "| iOS | Utils | [idb](https://github.com/facebook/idb) | idb is a flexible command line interface for automating iOS simulators and devices | ![](https://img.shields.io/github/stars/facebook/idb) | ![](https://img.shields.io/github/languages/top/facebook/idb) |",
+  "Method": "Utils",
+  "Description": "idb is a flexible command line interface for automating iOS simulators and devices",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
-  "Method": "Analysis",
-  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",
