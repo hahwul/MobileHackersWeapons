@@ -511,6 +511,22 @@
    "Windows": ""
   }
  },
+ "flipper": {
+  "Type": "All",
+  "Data": "| All | Analysis | [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. | ![](https://img.shields.io/github/stars/facebook/flipper) | ![](https://img.shields.io/github/languages/top/facebook/flipper) |",
+  "Method": "Analysis",
+  "Description": "A desktop debugging platform for mobile developers.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
  "frida": {
   "Data": "| All | RE | [frida](https://github.com/frida/frida) | Clone this repo to build Frida | ![](https://img.shields.io/github/stars/frida/frida) | ![](https://img.shields.io/github/languages/top/frida/frida) |",
   "Description": "Clone this repo to build Frida",
@@ -1024,15 +1040,15 @@
   }
  },
  "watchman": {
-  "Type": "All",
   "Data": "| All | Utils | [watchman](https://github.com/facebook/watchman) | Watches files and records, or triggers actions, when they change. | ![](https://img.shields.io/github/stars/facebook/watchman) | ![](https://img.shields.io/github/languages/top/facebook/watchman) |",
-  "Method": "Utils",
   "Description": "Watches files and records, or triggers actions, when they change.",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Utils",
+  "Type": "All",
   "Update": {
    "Linux": "",
    "MacOS": "",
