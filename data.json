@@ -752,15 +752,15 @@
   }
  },
  "idb": {
-  "Type": "iOS",
   "Data": "| iOS | Utils | [idb](https://github.com/facebook/idb) | idb is a flexible command line interface for automating iOS simulators and devices | ![](https://img.shields.io/github/stars/facebook/idb) | ![](https://img.shields.io/github/languages/top/facebook/idb) |",
-  "Method": "Utils",
   "Description": "idb is a flexible command line interface for automating iOS simulators and devices",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Utils",
+  "Type": "iOS",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -1017,6 +1017,22 @@
   },
   "Method": "Bluetooth",
   "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "watchman": {
+  "Type": "All",
+  "Data": "| All | Utils | [watchman](https://github.com/facebook/watchman) | Watches files and records, or triggers actions, when they change. | ![](https://img.shields.io/github/stars/facebook/watchman) | ![](https://img.shields.io/github/languages/top/facebook/watchman) |",
+  "Method": "Utils",
+  "Description": "Watches files and records, or triggers actions, when they change.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
   "Update": {
    "Linux": "",
    "MacOS": "",
