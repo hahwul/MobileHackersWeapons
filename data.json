@@ -512,15 +512,15 @@
   }
  },
  "flipper": {
-  "Type": "All",
   "Data": "| All | Analysis | [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. | ![](https://img.shields.io/github/stars/facebook/flipper) | ![](https://img.shields.io/github/languages/top/facebook/flipper) |",
-  "Method": "Analysis",
   "Description": "A desktop debugging platform for mobile developers.",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "Analysis",
+  "Type": "All",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -537,6 +537,22 @@
   },
   "Method": "RE",
   "Type": "All",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "frida-gadget": {
+  "Type": "All",
+  "Data": "| All | SCRIPTS | [frida-gadget](https://github.com/ksg97031/frida-gadget) | frida-gadget is a tool that can be used to patch APKs in order to utilize the Frida gadget. | ![](https://img.shields.io/github/stars/ksg97031/frida-gadget) | ![](https://img.shields.io/github/languages/top/ksg97031/frida-gadget) |",
+  "Method": "SCRIPTS",
+  "Description": "frida-gadget is a tool that can be used to patch APKs in order to utilize the Frida gadget.",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
   "Update": {
    "Linux": "",
    "MacOS": "",
