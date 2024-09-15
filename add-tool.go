@@ -5,14 +5,14 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"golang.org/x/net/html"
 	"io"
-	"io/ioutil"
 	"net/http"
 	"net/url"
 	"os"
 	"strconv"
 	"strings"
+
+	"golang.org/x/net/html"
 )
 
 /*
@@ -62,7 +62,7 @@ func writeJSON(category, name, method, data, udesc string) {
 	fmt.Println("Successfully Opened data.json")
 	// defer the closing of our jsonFile so that we can parse it later on
 	defer jsonFile.Close()
-	byteValue, _ := ioutil.ReadAll(jsonFile)
+	byteValue, _ := io.ReadAll(jsonFile)
 	var result map[string]interface{}
 	install := map[string]string{
 		"MacOS":   "",
@@ -96,7 +96,7 @@ func writeJSON(category, name, method, data, udesc string) {
 	}
 	result[name] = tool
 	file, _ := json.MarshalIndent(result, "", " ")
-	_ = ioutil.WriteFile("data.json", file, 0644)
+	_ = os.WriteFile("data.json", file, 0644)
 }
 
 func main() {
