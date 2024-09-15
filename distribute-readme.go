@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
+	"io"
 	"os"
 	"reflect"
 	"sort"
@@ -56,7 +56,7 @@ func main() {
 	fmt.Println("Successfully Opened data.json")
 	// defer the closing of our dataJson so that we can parse it later on
 	defer dataJson.Close()
-	byteValue, _ := ioutil.ReadAll(dataJson)
+	byteValue, _ := io.ReadAll(dataJson)
 	var result map[string]interface{}
 	json.Unmarshal([]byte(byteValue), &result)
 	//result[name] = tool
@@ -113,13 +113,13 @@ func main() {
 		fmt.Println(err)
 	}
 	defer dataJson.Close()
-	head_data, _ := ioutil.ReadAll(top)
+	head_data, _ := io.ReadAll(top)
 	foot, err := os.Open("template/foot.md")
 	if err != nil {
 		fmt.Println(err)
 	}
 	defer dataJson.Close()
-	foot_data, _ := ioutil.ReadAll(foot)
+	foot_data, _ := io.ReadAll(foot)
 	readme = string(head_data) + readme + string(foot_data)
 	fmt.Println("======================result====================")
 	//fmt.Println(readme)
