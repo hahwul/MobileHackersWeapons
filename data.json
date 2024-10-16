@@ -544,15 +544,15 @@
   }
  },
  "frida-gadget": {
-  "Type": "All",
   "Data": "| All | SCRIPTS | [frida-gadget](https://github.com/ksg97031/frida-gadget) | frida-gadget is a tool that can be used to patch APKs in order to utilize the Frida gadget. | ![](https://img.shields.io/github/stars/ksg97031/frida-gadget) | ![](https://img.shields.io/github/languages/top/ksg97031/frida-gadget) |",
-  "Method": "SCRIPTS",
   "Description": "frida-gadget is a tool that can be used to patch APKs in order to utilize the Frida gadget.",
   "Install": {
    "Linux": "",
    "MacOS": "",
    "Windows": ""
   },
+  "Method": "SCRIPTS",
+  "Type": "All",
   "Update": {
    "Linux": "",
    "MacOS": "",
@@ -809,6 +809,22 @@
   },
   "Method": "Target",
   "Type": "iOS",
+  "Update": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  }
+ },
+ "ipsw": {
+  "Type": "iOS",
+  "Data": "| iOS | RE | [ipsw](https://github.com/blacktop/ipsw) | iOS/macOS Research Swiss Army Knife | ![](https://img.shields.io/github/stars/blacktop/ipsw) | ![](https://img.shields.io/github/languages/top/blacktop/ipsw) |",
+  "Method": "RE",
+  "Description": "iOS/macOS Research Swiss Army Knife",
+  "Install": {
+   "Linux": "",
+   "MacOS": "",
+   "Windows": ""
+  },
   "Update": {
    "Linux": "",
    "MacOS": "",
