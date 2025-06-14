@@ -1,52 +1,52 @@
-# Contribute
-## Fork and Build Contribute tools
-First, fork this repository 
-Second, Clone forked repo and compile `add-tool` and `distribute-readme` using `make` command:
-```
-$ git clone https://github.com/{your-id}/MobileHackersWeaponse
-$ cd MobileHackersWeaponse
+## ⚠️ Important
+The paths below is automatically generated.
+
+- `README.md`
+- `categorize/*`
+
+Please contribute only the `./weapons` and `./scripts`, `./images` directories 😉
+
+## ❤️ Contribute
+### First, Fork Repository
+Fork this repository :D
+
+### Second, Write `./weapons/<appname>.yaml` and Commit/PR
+Write YAML Code.
+```yaml
+---
+name: App Name
+description: App Description
+url: App URL   # https://github.com/hahwul/dalfox
+category: tool # tool / tool-addon / browser-addon / bookmarklet
+type:          # Army-knife / Proxy / Recon / Fuzzer / Scanner / Exploit / Env / Utils / Etc
+platform:
+- linux        # linux
+- macos        # macos application
+- windows      # windows application
+- firefox      # firefox addon
+- safari       # safari addon
+- chrome       # chrome addon
+- zap          # anything to do with zap (addons, scripts, etc..)
+- burpsuite    # anything to do with burpsuite (extensions, payloads, etc..)
+# If supported crossplatform (OS), you write out all three (linux/macos/windows)
+# If supported zap and burpsuite addon, you write both (zap/burpsuite)
+lang:          # go / python / ruby / rust / etc...
+tags: []       # xss / sqli / ssrf / oast / http / subdomains / etc...
 ```
 
-```bash
-$ make contribute
+*Sample*
+```yaml
+---
+name: HUNT
+description: Identifies common parameters vulnerable to certain vulnerability classes
+url: https://github.com/bugcrowd/HUNT
+category: tool-addon
+type: Recon
+platform: [linux, macos, windows, zap, burpsuite]
+lang: Kotlin
+tags: [param]
 ```
 
-## Add new tool
-First, your tool append `data.json` using `add-tool`
+![1415](https://user-images.githubusercontent.com/13212227/98445635-00db1e00-215c-11eb-8a59-d7d21dd98db0.png)
 
-Usage
-```
-./add-tool
-Usage of ./add-tool:
-  -isFirst
-    	if you add new type, it use
-  -url string
-    	any url
-```
-
-E.g
-```
-$ ./add-tool -url https://github.com/blahblah/blahblah
-Successfully Opened type.lst
-[0] All
-[1] iOS
-[2] Android
-[+] What is type?
-1
-iOS
-[+] What is method(e.g Log, Proxy, Scanner, Etc..)?
-Scanner
-Successfully Opened data.json
-```
-## Distruibute (only for me)
-### Distribute to common tools
-```
-$ ./distribute-readme
-=> show new README file
-```
-
-### Distribute to Another directory
-```
-$ ../distribute-readme
-=> show new README file in Burp Suite or ZAP Extensions
-```
+### Third, There's no third.

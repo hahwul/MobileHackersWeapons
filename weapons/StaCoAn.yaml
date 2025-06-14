@@ -1,0 +1,10 @@
+---
+name: StaCoAn
+description: StaCoAn is a crossplatform tool which aids developers, bugbounty hunters
+  and ethical hackers performing static code analysis on mobile applications.
+url: https://github.com/vincentcox/StaCoAn
+category: All
+type: Scanner
+platform: []
+lang:
+tags: []

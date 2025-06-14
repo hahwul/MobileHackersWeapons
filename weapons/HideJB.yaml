@@ -1,0 +1,9 @@
+---
+name: HideJB
+description: a tweak has the ability to skip Jailbreak detection on iOS apps.
+url: http://cydia.saurik.com/package/com.thuthuatjb.hidejb/
+category: iOS
+type: ''
+platform: []
+lang:
+tags: [Jailbreak]

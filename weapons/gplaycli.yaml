@@ -1,0 +1,9 @@
+---
+name: gplaycli
+description: Google Play Downloader via Command line
+url: https://github.com/matlink/gplaycli
+category: Android
+type: ''
+platform: []
+lang:
+tags: [Target]

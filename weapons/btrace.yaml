@@ -1,0 +1,11 @@
+---
+name: btrace
+description: 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which
+  is based on Systrace, it support to define custom events automatically during building
+  apk and using bhook to provider more native events like IO.
+url: https://github.com/bytedance/btrace
+category: Android
+type: RE
+platform: []
+lang:
+tags: []

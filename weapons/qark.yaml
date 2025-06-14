@@ -1,0 +1,9 @@
+---
+name: qark
+description: Tool to look for several security related Android application vulnerabilities
+url: https://github.com/linkedin/qark
+category: Android
+type: Scanner
+platform: []
+lang:
+tags: []

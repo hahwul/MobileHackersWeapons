@@ -1,0 +1,9 @@
+---
+name: class-dump
+description: Generate Objective-C headers from Mach-O files.
+url: https://github.com/nygard/class-dump
+category: iOS
+type: RE
+platform: []
+lang:
+tags: []

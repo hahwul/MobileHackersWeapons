@@ -1,0 +1,10 @@
+---
+name: bytecode-viewer
+description: A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor,
+  Debugger & More)
+url: https://github.com/Konloch/bytecode-viewer/
+category: Android
+type: RE
+platform: []
+lang:
+tags: []
