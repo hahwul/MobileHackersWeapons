@@ -1,0 +1,8 @@
+name: androguard
+description: Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
+url: https://github.com/androguard/androguard
+category: Android
+type: RE
+platform: []
+lang:
+tags: []

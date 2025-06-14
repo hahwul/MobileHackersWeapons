@@ -1,0 +1,8 @@
+name: ghidra
+description: Ghidra is a software reverse engineering (SRE) framework
+url: https://github.com/NationalSecurityAgency/ghidra
+category: All
+type: RE
+platform: []
+lang:
+tags: []

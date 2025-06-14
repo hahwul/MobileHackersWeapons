@@ -1,0 +1,8 @@
+name: frida-tools
+description: Frida CLI tools
+url: https://github.com/frida/frida-tools
+category: All
+type: RE
+platform: []
+lang:
+tags: []

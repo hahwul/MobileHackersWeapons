@@ -1,0 +1,8 @@
+name: scrcpy
+description: Display and control your Android device
+url: https://github.com/Genymobile/scrcpy
+category: Android
+type: Device
+platform: []
+lang:
+tags: []

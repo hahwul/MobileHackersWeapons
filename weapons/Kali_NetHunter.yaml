@@ -1,0 +1,8 @@
+name: Kali NetHunter
+description: Mobile Penetration Testing Platform
+url: https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project
+category: Android
+type: Pentest
+platform: []
+lang:
+tags: []

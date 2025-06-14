@@ -1,0 +1,8 @@
+name: drozer
+description: The Leading Security Assessment Framework for Android.
+url: https://github.com/FSecureLABS/drozer
+category: Android
+type: Analysis
+platform: []
+lang:
+tags: []

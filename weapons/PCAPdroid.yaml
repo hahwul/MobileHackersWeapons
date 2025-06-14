@@ -1,0 +1,9 @@
+name: PCAPdroid
+description: No-root network monitor, firewall and PCAP dumper for Android
+url: https://github.com/emanuele-f/PCAPdroid
+category: Android
+type: ''
+platform: []
+lang:
+tags:
+- Monitor

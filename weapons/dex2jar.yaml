@@ -1,0 +1,8 @@
+name: dex2jar
+description: Tools to work with android .dex and java .class files
+url: https://github.com/pxb1988/dex2jar
+category: Android
+type: RE
+platform: []
+lang:
+tags: []

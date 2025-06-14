@@ -1,0 +1,8 @@
+name: Apktool
+description: A tool for reverse engineering Android apk files
+url: https://github.com/iBotPeaches/Apktool
+category: Android
+type: RE
+platform: []
+lang:
+tags: []

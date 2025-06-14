@@ -1,0 +1,8 @@
+name: iblessing
+description: iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining.
+url: https://github.com/Soulghost/iblessing
+category: iOS
+type: Analysis
+platform: []
+lang:
+tags: []

@@ -1,0 +1,9 @@
+name: PlaystoreDownloader
+description: A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)
+url: https://github.com/ClaudiuGeorgiu/PlaystoreDownloader
+category: Android
+type: ''
+platform: []
+lang:
+tags:
+- Target

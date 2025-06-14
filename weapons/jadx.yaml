@@ -1,0 +1,8 @@
+name: jadx
+description: Dex to Java decompiler
+url: https://github.com/skylot/jadx
+category: Android
+type: RE
+platform: []
+lang:
+tags: []

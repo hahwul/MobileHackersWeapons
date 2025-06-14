@@ -1,0 +1,8 @@
+name: iSpy
+description: A reverse engineering framework for iOS
+url: https://github.com/BishopFox/iSpy
+category: iOS
+type: RE
+platform: []
+lang:
+tags: []

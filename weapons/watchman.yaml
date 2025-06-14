@@ -1,0 +1,8 @@
+name: watchman
+description: Watches files and records, or triggers actions, when they change.
+url: https://github.com/facebook/watchman
+category: All
+type: Utils
+platform: []
+lang:
+tags: []

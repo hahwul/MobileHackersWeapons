@@ -1,0 +1,9 @@
+name: frida-scripts
+description: A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
+url: https://github.com/0xdea/frida-scripts
+category: All
+type: ''
+platform: []
+lang:
+tags:
+- SCRIPTS
