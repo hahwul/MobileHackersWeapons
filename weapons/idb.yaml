@@ -1,5 +1,7 @@
+---
 name: idb
-description: idb is a flexible command line interface for automating iOS simulators and devices
+description: idb is a flexible command line interface for automating iOS simulators
+  and devices
 url: https://github.com/facebook/idb
 category: iOS
 type: Utils

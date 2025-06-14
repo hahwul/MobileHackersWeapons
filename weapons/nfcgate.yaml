@@ -1,3 +1,4 @@
+---
 name: nfcgate
 description: An NFC research toolkit application for Android
 url: https://github.com/nfcgate/nfcgate
@@ -5,5 +6,4 @@ category: Android
 type: ''
 platform: []
 lang:
-tags:
-- NFC
+tags: [NFC]

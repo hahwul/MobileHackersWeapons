@@ -1,3 +1,4 @@
+---
 name: googleplay
 description: Download APK from Google Play or send API requests
 url: https://github.com/89z/googleplay
@@ -5,5 +6,4 @@ category: Android
 type: ''
 platform: []
 lang:
-tags:
-- Target
+tags: [Target]

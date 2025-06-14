@@ -1,9 +1,9 @@
+---
 name: A-Jailbreak
 description: Super Jailbreak detection Jailbreak!
 url: https://www.ios-repo-updates.com/repository/baw-repo/package/com.rpgfarm.a-Jailbreak/
 category: iOS
-type: ""
+type: ''
 platform: []
 lang:
-tags:
-  - Jailbreak
+tags: [Jailbreak]

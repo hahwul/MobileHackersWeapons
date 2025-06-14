@@ -1,9 +1,10 @@
+---
 name: gplaydl
-description: Command Line Google Play APK downloader. Download APK files to your PC directly from Google Play Store.
+description: Command Line Google Play APK downloader. Download APK files to your PC
+  directly from Google Play Store.
 url: https://github.com/rehmatworks/gplaydl
 category: Android
 type: ''
 platform: []
 lang:
-tags:
-- Target
+tags: [Target]

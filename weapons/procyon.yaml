@@ -1,5 +1,8 @@
+---
 name: procyon
-description: Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.
+description: Procyon is a suite of Java metaprogramming tools, including a rich reflection
+  API, a LINQ-inspired expression tree API for runtime code generation, and a Java
+  decompiler.
 url: https://github.com/mstrobel/procyon
 category: Android
 type: RE

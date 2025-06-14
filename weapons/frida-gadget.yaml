@@ -1,9 +1,10 @@
+---
 name: frida-gadget
-description: frida-gadget is a tool that can be used to patch APKs in order to utilize the Frida gadget.
+description: frida-gadget is a tool that can be used to patch APKs in order to utilize
+  the Frida gadget.
 url: https://github.com/ksg97031/frida-gadget
 category: All
 type: ''
 platform: []
 lang:
-tags:
-- SCRIPTS
+tags: [SCRIPTS]

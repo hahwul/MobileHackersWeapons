@@ -1,9 +1,9 @@
+---
 name: bfinject
 description: Dylib injection for iOS 11.0 - 11.1.2 with LiberiOS and Electra Jailbreaks
 url: https://github.com/BishopFox/bfinject
 category: iOS
-type: ""
+type: ''
 platform: []
 lang:
-tags:
-  - Inject
+tags: [Inject]

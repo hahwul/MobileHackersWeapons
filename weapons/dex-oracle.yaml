@@ -1,5 +1,7 @@
+---
 name: dex-oracle
-description: A pattern based Dalvik deobfuscator which uses limited execution to improve semantic analysis
+description: A pattern based Dalvik deobfuscator which uses limited execution to improve
+  semantic analysis
 url: https://github.com/CalebFenton/dex-oracle
 category: Android
 type: RE

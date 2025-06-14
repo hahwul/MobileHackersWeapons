@@ -1,9 +1,10 @@
+---
 name: toothpicker
-description: ToothPicker is an in-process, coverage-guided fuzzer for iOS. for iOS Bluetooth
+description: ToothPicker is an in-process, coverage-guided fuzzer for iOS. for iOS
+  Bluetooth
 url: https://github.com/seemoo-lab/toothpicker
 category: iOS
 type: ''
 platform: []
 lang:
-tags:
-- Bluetooth
+tags: [Bluetooth]

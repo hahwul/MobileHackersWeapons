@@ -1,3 +1,4 @@
+---
 name: frida-ios-dump
 description: pull decrypted ipa from Jailbreak device
 url: https://github.com/AloneMonkey/frida-ios-dump

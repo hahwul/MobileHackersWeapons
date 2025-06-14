@@ -1,5 +1,7 @@
+---
 name: enjarify
-description: Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.
+description: Enjarify is a tool for translating Dalvik bytecode to equivalent Java
+  bytecode. This allows Java analysis tools to analyze Android applications.
 url: https://github.com/Storyyeller/enjarify
 category: Android
 type: RE

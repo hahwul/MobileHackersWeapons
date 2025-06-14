@@ -1,5 +1,7 @@
+---
 name: JEB
-description: reverse-engineering platform to perform disassembly, decompilation, debugging, and analysis of code and document files, manually or as part of an analysis pipeline.
+description: reverse-engineering platform to perform disassembly, decompilation, debugging,
+  and analysis of code and document files, manually or as part of an analysis pipeline.
 url: https://www.pnfsoftware.com/jeb/
 category: Android
 type: RE

@@ -1,3 +1,4 @@
+---
 name: ipainstaller
 description: Install IPA from command line
 url: https://github.com/autopear/ipainstaller
@@ -5,5 +6,4 @@ category: iOS
 type: ''
 platform: []
 lang:
-tags:
-- Target
+tags: [Target]
