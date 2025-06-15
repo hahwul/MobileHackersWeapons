@@ -103,8 +103,8 @@ tags = []
 langs = []
 categorize_tags = {}
 categorize_langs = {}
-head = "| Type | Name | Description | Star | Tags | Badges |\n"
-head = head + "| --- | --- | --- | --- | --- | --- |"
+head = "| Type | Name | Description | Star |\n"
+head = head + "| --- | --- | --- | --- |"
 all_tools = head + "\n"
 ios_tools = head + "\n"
 android_tools = head + "\n"
@@ -187,7 +187,7 @@ weapons.each do | data |
             popularity = "![](https://img.shields.io/github/stars/#{split_result[1]}?label=%20)"
         end
         badge = generate_badge(data['platform'])
-        line = "|#{data['type']}|#{name}|#{data['description']}|#{popularity}|#{temp_tags.join ' '}|#{badge}#{lang_badge}|"
+        line = "|#{data['type']}|#{name}|#{data['description']}|#{popularity}|"
         case data['category'].downcase
         when 'android'
             android_tools = android_tools + line + "\n"
