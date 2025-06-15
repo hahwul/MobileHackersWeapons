@@ -5,5 +5,5 @@ url: https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project
 category: Android
 type: Pentest
 platform: []
-lang:
+lang: Shell
 tags: []
