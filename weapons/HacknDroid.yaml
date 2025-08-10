@@ -1,0 +1,10 @@
+---
+name: HacknDroid
+description: Automation of some Mobile Application Penetration Testing activities
+  and interaction with the mobile Android device.
+url: https://github.com/RaffaDNDM/HacknDroid
+category: Android
+type: Pentest
+platform: []
+lang: Python
+tags: []
