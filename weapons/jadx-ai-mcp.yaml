@@ -1,0 +1,9 @@
+---
+name: jadx-ai-mcp
+description: MCP server that provides access to JADX decompiler for AI assistants to analyze Android apps
+url: https://github.com/zinja-coder/jadx-ai-mcp
+category: Android
+type: RE
+platform: []
+lang: TypeScript
+tags: []
