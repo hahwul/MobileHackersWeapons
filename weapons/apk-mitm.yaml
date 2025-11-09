@@ -1,0 +1,9 @@
+---
+name: apk-mitm
+description: A CLI application that automatically prepares Android APK files for HTTPS inspection
+url: https://github.com/shroudedcode/apk-mitm
+category: Android
+type: Utils
+platform: []
+lang: TypeScript
+tags: [Unpinning]

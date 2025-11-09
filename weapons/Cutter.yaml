@@ -1,0 +1,9 @@
+---
+name: Cutter
+description: Free and Open Source Reverse Engineering Platform powered by radare2
+url: https://github.com/rizinorg/cutter
+category: All
+type: RE
+platform: []
+lang: C++
+tags: []

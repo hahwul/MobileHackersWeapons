@@ -1,0 +1,9 @@
+---
+name: apkanalyzer
+description: APK Analyzer from Android Studio command line tools
+url: https://developer.android.com/studio/command-line/apkanalyzer
+category: Android
+type: Analysis
+platform: []
+lang: Java
+tags: []

@@ -1,0 +1,9 @@
+---
+name: EdXposed
+description: Elder driver Xposed Framework, supports Android 8-10
+url: https://github.com/ElderDrivers/EdXposed
+category: Android
+type: Utils
+platform: []
+lang: C++
+tags: [Inject]

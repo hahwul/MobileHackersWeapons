@@ -1,0 +1,9 @@
+---
+name: APKLab
+description: Android Reverse Engineering WorkBench for VS Code
+url: https://github.com/APKLab/APKLab
+category: Android
+type: RE
+platform: []
+lang: TypeScript
+tags: []

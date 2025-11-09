@@ -1,0 +1,9 @@
+---
+name: uber-apk-signer
+description: A tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates
+url: https://github.com/patrickfav/uber-apk-signer
+category: Android
+type: Utils
+platform: []
+lang: Java
+tags: []

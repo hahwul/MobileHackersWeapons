@@ -1,0 +1,9 @@
+---
+name: JustTrustMe
+description: An Xposed module that disables SSL certificate checking
+url: https://github.com/Fuzion24/JustTrustMe
+category: Android
+type: Utils
+platform: []
+lang: Java
+tags: [Unpinning]

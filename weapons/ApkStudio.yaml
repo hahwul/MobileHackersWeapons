@@ -1,0 +1,9 @@
+---
+name: ApkStudio
+description: Open-source, cross platform Qt based IDE for reverse-engineering Android applications
+url: https://github.com/vaibhavpandeyvpz/apkstudio
+category: Android
+type: RE
+platform: []
+lang: C++
+tags: []

@@ -3,6 +3,7 @@
 
 | Type | Name | Description | Star |
 | --- | --- | --- | --- |
+|Utils|[APKPure](https://apkpure.com/)|Download original APK files from APKPure||
 ||[PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader)|A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)|![](https://img.shields.io/github/stars/ClaudiuGeorgiu/PlaystoreDownloader?label=%20)|
 ||[gplaycli](https://github.com/matlink/gplaycli)|Google Play Downloader via Command line|![](https://img.shields.io/github/stars/matlink/gplaycli?label=%20)|
 ||[googleplay](https://github.com/89z/googleplay)|Download APK from Google Play or send API requests|![](https://img.shields.io/github/stars/89z/googleplay?label=%20)|

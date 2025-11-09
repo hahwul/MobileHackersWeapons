@@ -1,0 +1,9 @@
+---
+name: PID Cat
+description: Colored logcat script which only shows log entries for a specific application package
+url: https://github.com/JakeWharton/pidcat
+category: Android
+type: Utils
+platform: []
+lang: Python
+tags: []

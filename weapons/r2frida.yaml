@@ -1,0 +1,9 @@
+---
+name: r2frida
+description: Radare2 and Frida better together - Self-contained r2 plugin for frida instrumentation
+url: https://github.com/nowsecure/r2frida
+category: All
+type: RE
+platform: []
+lang: C
+tags: []

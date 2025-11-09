@@ -1,0 +1,9 @@
+---
+name: Introspy-iOS
+description: Security profiling for blackbox iOS
+url: https://github.com/iSECPartners/Introspy-iOS
+category: iOS
+type: Analysis
+platform: []
+lang: Objective-C
+tags: []

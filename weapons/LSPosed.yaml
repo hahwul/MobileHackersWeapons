@@ -1,0 +1,9 @@
+---
+name: LSPosed
+description: LSPosed Framework - Android Xposed Framework for Android 8.1 - 13
+url: https://github.com/LSPosed/LSPosed
+category: Android
+type: Utils
+platform: []
+lang: C++
+tags: [Inject]

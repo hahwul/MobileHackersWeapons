@@ -1,0 +1,9 @@
+---
+name: Android-SSL-TrustKiller
+description: Bypass SSL certificate pinning for most Android applications
+url: https://github.com/iSECPartners/Android-SSL-TrustKiller
+category: Android
+type: Utils
+platform: []
+lang: Java
+tags: [Unpinning]

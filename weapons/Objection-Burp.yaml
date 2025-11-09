@@ -1,0 +1,9 @@
+---
+name: Objection-Burp
+description: Objection Burp Integration
+url: https://github.com/portswigger/objection-burp
+category: All
+type: Proxy
+platform: []
+lang: Python
+tags: []

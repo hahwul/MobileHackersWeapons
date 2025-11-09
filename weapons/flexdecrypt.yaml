@@ -1,0 +1,9 @@
+---
+name: flexdecrypt
+description: Decrypt iOS apps and Mach-O binaries
+url: https://github.com/JohnCoates/flexdecrypt
+category: iOS
+type: RE
+platform: []
+lang: C
+tags: []

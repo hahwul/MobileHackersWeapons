@@ -1,0 +1,9 @@
+---
+name: MobSecco
+description: Mobile Security Compliance tool
+url: https://github.com/Checkmarx/MobSecco
+category: All
+type: Scanner
+platform: []
+lang: Python
+tags: []

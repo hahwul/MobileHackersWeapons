@@ -1,0 +1,9 @@
+---
+name: Introspy-Android
+description: Blackbox tool to help understand what an Android application is doing at runtime and assist in the identification of potential security issues
+url: https://github.com/iSECPartners/Introspy-Android
+category: Android
+type: Analysis
+platform: []
+lang: Python
+tags: []

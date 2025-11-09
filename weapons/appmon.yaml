@@ -1,0 +1,9 @@
+---
+name: appmon
+description: Runtime Security Testing & Profiling Framework based on Frida
+url: https://github.com/dpnishant/appmon
+category: All
+type: Analysis
+platform: []
+lang: Python
+tags: [Monitor]

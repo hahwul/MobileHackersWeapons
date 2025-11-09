@@ -1,0 +1,9 @@
+---
+name: Xposed
+description: Xposed is a framework for modules that can change the behavior of the system and apps without touching any APKs
+url: https://github.com/rovo89/Xposed
+category: Android
+type: Utils
+platform: []
+lang: Java
+tags: [Inject]

@@ -1,0 +1,9 @@
+---
+name: iGoat
+description: A learning tool for iOS App Pentesting and Security
+url: https://github.com/OWASP/iGoat-Swift
+category: iOS
+type: Utils
+platform: []
+lang: Swift
+tags: []

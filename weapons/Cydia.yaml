@@ -1,0 +1,9 @@
+---
+name: Cydia
+description: Graphical package manager for jailbroken iOS devices
+url: https://cydia.saurik.com/
+category: iOS
+type: Utils
+platform: []
+lang: Objective-C
+tags: [Jailbreak]

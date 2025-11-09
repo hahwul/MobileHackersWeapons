@@ -1,0 +1,9 @@
+---
+name: House
+description: A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
+url: https://github.com/nccgroup/house
+category: All
+type: Analysis
+platform: []
+lang: Python
+tags: []

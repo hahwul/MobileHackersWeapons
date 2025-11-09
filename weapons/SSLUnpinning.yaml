@@ -1,0 +1,9 @@
+---
+name: SSLUnpinning
+description: Android SSL certificate pinning bypass for various methods
+url: https://github.com/ac-pm/SSLUnpinning_Xposed
+category: Android
+type: Utils
+platform: []
+lang: Java
+tags: [Unpinning]

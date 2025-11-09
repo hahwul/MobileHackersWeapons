@@ -1,0 +1,9 @@
+---
+name: iOS App Signer
+description: This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device
+url: https://github.com/DanTheMan827/ios-app-signer
+category: iOS
+type: Utils
+platform: []
+lang: Swift
+tags: []

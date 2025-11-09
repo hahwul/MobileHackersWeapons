@@ -1,0 +1,9 @@
+---
+name: Medusa
+description: An extensible and modularized framework that automates processes and techniques practiced during the dynamic analysis of Android Applications
+url: https://github.com/Ch0pin/medusa
+category: Android
+type: Analysis
+platform: []
+lang: Python
+tags: []

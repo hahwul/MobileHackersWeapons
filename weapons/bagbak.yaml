@@ -1,0 +1,9 @@
+---
+name: bagbak
+description: Yet another frida based iOS dumpdecrypted
+url: https://github.com/ChiChou/bagbak
+category: iOS
+type: RE
+platform: []
+lang: TypeScript
+tags: []

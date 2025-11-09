@@ -1,0 +1,9 @@
+---
+name: Universal Android Debloater
+description: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices
+url: https://github.com/0x192/universal-android-debloater
+category: Android
+type: Utils
+platform: []
+lang: Rust
+tags: []
