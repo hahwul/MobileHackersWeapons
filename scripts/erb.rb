@@ -227,7 +227,6 @@ weapons.each do | data |
 end
 
 markdown = ERB.new(template, trim_mode: "%<>")
-#puts markdown.result
 File.write './README.md', markdown.result
 
 categorize_tags.each do |key,value|
