@@ -125,7 +125,7 @@ weapons_obj = {
     "nfc" => [],
     "target" => [],
     "bluetooth" => [],
-    "Jailbreak" => [],
+    "jailbreak" => [],
     "inject" => [],
     "unpinning" => [],
     "etc" => []
@@ -134,7 +134,7 @@ weapons_obj = {
 Dir.entries("./weapons/").each do | name |
     if name != '.' && name != '..'
         begin
-            data = YAML.load(File.open("./weapons/#{name}"))
+            data = YAML.safe_load_file("./weapons/#{name}")
 
             if data['type'] != "" && data['type'] != nil
                 type_key = data['type'].downcase
@@ -227,7 +227,6 @@ weapons.each do | data |
 end
 
 markdown = ERB.new(template, trim_mode: "%<>")
-#puts markdown.result
 File.write './README.md', markdown.result
 
 categorize_tags.each do |key,value|
