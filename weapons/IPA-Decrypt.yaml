@@ -1,0 +1,10 @@
+---
+name: IPA-Decrypt
+description: GUI App Store / TestFlight IPA downloader and FairPlay decryption tool for iOS and macOS
+url: https://github.com/Re13orn/IPA-Decrypt
+category: iOS
+type: RE
+platform:
+- macos
+lang: Go
+tags: []
